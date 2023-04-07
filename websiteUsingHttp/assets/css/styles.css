@@ -1,0 +1,13 @@
+.spacing{
+    text-align: center;
+    height:250px;
+    }
+
+body {
+    background-color: rgba(217, 238, 244, 0.597);
+}
+.image{
+height: 100px;
+width: 250px;
+margin-left: 30vw;
+}
