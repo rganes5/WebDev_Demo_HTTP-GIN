@@ -20,7 +20,7 @@ var tmpl *template.Template
 func init() {
 	tmpl = template.Must(template.ParseGlob("templates/*.html"))
 }
-
+//main function
 func main() {
 	r := gin.Default()
 
